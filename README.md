@@ -8,9 +8,8 @@ The typical mixup mixes two samples.
 In this implemention, mixup mixes two or more samples.
 Therefore, the mixing ratio is sampled from the Dirichlet distribution.
 
-############
+
 # mixup.py
-############
 
 # class MixupGenerator
 numpyで実装されたmixupのジェネレーター
