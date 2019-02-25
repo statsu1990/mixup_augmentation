@@ -23,6 +23,8 @@ Generator of mixup using Sequence of keras
 kerasのimageDataAugmentationとmixupを組み合わせたジェネレーター
 Generator combining keras's imageDataAugmentation and mixup
 
-
+#　mixup_test.py
+Verification of accuracy with cifar10 using resnet.
+I reffered to keras tutorial https://github.com/keras-team/keras/blob/master/examples/cifar10_resnet.py.
 
 
